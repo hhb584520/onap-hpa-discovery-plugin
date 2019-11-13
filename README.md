@@ -1,0 +1,1 @@
+# onap-hpa-discovery-plugin
